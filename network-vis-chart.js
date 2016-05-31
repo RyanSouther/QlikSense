@@ -1,5 +1,5 @@
 /*
-Note that this File was modified for use from the original extension. MIT license applies to modified portions of code. 
+-----Note that this File was modified for use from the original extension. MIT license applies to modified portions of code. 
 
 Created by Michael Laenen - michael.laenen@agilos.com - (c) 2016
 Tested on Qlik Sense 2.2.3
